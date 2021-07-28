@@ -1,6 +1,6 @@
 # Pair-Matching-Puzzle-game
 
-	ABC Pairs is a memory game where you need to match pairs of tiles.Playing is very simple - you turn over one tile and then try to find a matching tile, i.e either the corresponding value or the picture.
+ABC Pairs is a memory game where you need to match pairs of tiles.Playing is very simple - you turn over one tile and then try to find a matching tile, i.e either the corresponding value or the picture.
 
 ## Installation
 Please see the appropriate guide for your environment of choice:
